@@ -1,0 +1,2 @@
+{"billNo":"1234","custName": "Nila", "mobileNo": "1234123412"}
+[{"itemId":"cabb1","itemName":"cab","itemCategory":"Grocery","amt":"78"},{"itemId":"cabb1","itemName":"cab","itemCategory":"Grocery","amt":"74"}]

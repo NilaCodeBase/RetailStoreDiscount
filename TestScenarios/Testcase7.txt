@@ -1,0 +1,2 @@
+{"billNo":"1234","custName": "Mark", "mobileNo": "1334123412"}
+[{"itemId":"ironB1","itemName":"ironBox","itemCategory":"electronics","amt":"38"},{"itemId":"ironB1","itemName":"ironBox","itemCategory":"electronics","amt":"72"}]

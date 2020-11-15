@@ -1,0 +1,2 @@
+{"billNo":"1234","custName": "Cathe", "mobileNo": "1434123412"}
+[{"itemId":"cabb1","itemName":"cab","itemCategory":"Grocery","amt":"78"},{"itemId":"ironB1","itemName":"ironBox","itemCategory":"electronics","amt":"38"},{"itemId":"cabb1","itemName":"cab","itemCategory":"Grocery","amt":"74"},{"itemId":"ironB1","itemName":"ironBox","itemCategory":"electronics","amt":"72"}]
